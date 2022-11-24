@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{352C8ED4-8DE7-407D-AFB9-48AD4C39745D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5D10022C-49BF-4A7E-9EA3-0C195495E769}"
+	ProjectSection(SolutionItems) = preProject
+		\\main\RDP\41П\КазанскийДА\Downloads\README_rus.md = \\main\RDP\41П\КазанскийДА\Downloads\README_rus.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
